@@ -5,7 +5,7 @@
 
 first upgrade archlinux
 ```sh
-  sudo pacman -S archlinux-keyring && pacman -Syyu
+sudo pacman -S archlinux-keyring && pacman -Syyu
 ```
 
 | name | pacman | sh |
