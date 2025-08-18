@@ -1,5 +1,6 @@
 # .dotfiles
 #### This is my archlinux and Hyprland dots
+![App Screenshot](https://github.com/ko-k1/.dotfiles/blob/main/preview.png?text=App+Screenshot+Here)
 
 ## Requirement Packages
 
