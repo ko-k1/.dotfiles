@@ -1,6 +1,6 @@
 # .dotfiles
 #### This is my archlinux and Hyprland dots
-![App Screenshot](https://github.com/ko-k1/.dotfiles/blob/main/preview.png)
+![preview](https://github.com/ko-k1/.dotfiles/blob/main/preview.png)
 >[!WARNING]
 >**I don't recommend this for people who aren't developers.** Please apply these dots at your own risk. I will not be held responsible for any damage to your system.
 
@@ -24,13 +24,13 @@ sudo pacman -S --needed git base-devel rustup
 rustup default stable
 ```
 - aur install
->paru
+  - paru
 ```sh
 git clone https://aur.archlinux.org/paru.git
 cd paru
 makepkg -si
 ```
->yay
+  - yay
 ```sh
 git clone https://aur.archlinux.org/yay.git
 cd yay
