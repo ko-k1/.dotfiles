@@ -10,7 +10,7 @@ sudo pacman -S archlinux-keyring && pacman -Syyu
 ```
 
 2. install aur helper
-detail is [Arch Wiki](https://aur.archlinux.org/packages/paru) of aur helpers. 
+detail is [Arch Wiki](https://aur.archlinux.org/packages/paru) of aur helpers.
 #### list
 | name | dependencies |
 | :- | :- |
