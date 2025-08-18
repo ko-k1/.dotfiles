@@ -24,13 +24,13 @@ sudo pacman -S --needed git base-devel rustup
 rustup default stable
 ```
 - aur install
-  - paru
+>paru
 ```sh
 git clone https://aur.archlinux.org/paru.git
 cd paru
 makepkg -si
 ```
-  - yay
+>yay
 ```sh
 git clone https://aur.archlinux.org/yay.git
 cd yay
