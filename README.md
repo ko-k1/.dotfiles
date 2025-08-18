@@ -3,8 +3,8 @@
 ![App Screenshot](https://github.com/ko-k1/.dotfiles/blob/main/preview.png)
 >[!WARNING]
 >**I don't recommend this for people who aren't developers.** Please apply these dots at your own risk. I will not be held responsible for any damage to your system.
-## Requirement Packages
 
+## Requirement Packages
 1. upgrade archlinux
 ```sh
 sudo pacman -S archlinux-keyring && pacman -Syyu
