@@ -62,6 +62,7 @@ makepkg -si
 | `loupe` | `pacman` | `pacman -S loupe` |
 | `superfile` | `pacman` | `pacman -S superfile` |
 | `yazi` | `pacman` | `pacman -S yazi` |
+| `file roller` | `pacman` | `pacman -S file-roller` |
 
 
 ## Authors
