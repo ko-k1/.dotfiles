@@ -1,1 +1,3 @@
-
+os :archlinux
+wm :hyprland
+sound :pipewire
