@@ -1,3 +1,4 @@
 os :archlinux
-wm :hyprland
+wm :hyprland-uwsm, seatd
+dm : sddm
 sound :pipewire

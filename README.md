@@ -58,6 +58,8 @@ makepkg -si
 | `hyprlock` | `pacman` | `pacman -S hyprlock` |
 | `hyprshot` | `pacman` | `pacman -S hyprshot` |
 | `loupe` | `pacman` | `pacman -S loupe` |
+| `superfile` | `pacman` | `pacman -S superfile` |
+| `yazi` | `pacman` | `pacman -S yazi` |
 
 
 ## Authors
