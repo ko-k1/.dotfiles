@@ -81,9 +81,6 @@ echo ":: Searching for Flatpak updates..."
 flatpak update
 echo
 
-# paru
-paru -Syu
-
 # Reload Waybar
 pkill -RTMIN+1 waybar
 
