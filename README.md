@@ -63,6 +63,7 @@ makepkg -si
 | `superfile` | `pacman` | `pacman -S superfile` |
 | `yazi` | `pacman` | `pacman -S yazi` |
 | `file roller` | `pacman` | `pacman -S file-roller` |
+| `swww` | `pacman` | `pacman -S swww` |
 
 
 ## Authors
