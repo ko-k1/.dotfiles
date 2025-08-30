@@ -1,0 +1,16 @@
+/* Base Color Theme Options */
+@import "koki-theme.css";
+
+/* Functional Options */
+@import "changeColors.css";
+@import "removeExtras.css";
+@import "hideBookmarks.css";
+@import "noTablineWindows.css";
+/*@import "noTablineLinux.css";*/
+@import "sidebery.css";
+@import "newtab.css";
+
+:root{
+    --accent-color: #a698da; /* Change this color to your liking, default is a Cherry Blossom Pink. Used in Amoled, Dark, and Darker color themes */
+    --accent-color-light: #865acd; /* Change this color to your liking, default is a Medium Pink. Used in light theme */
+}

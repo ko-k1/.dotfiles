@@ -1,0 +1,3 @@
+move "chrome" folder to root profile dir
+edit userChrome.css commentout apply your supported platforms css
+sidebery.json is sideberry's settings, option-tree >Help import json

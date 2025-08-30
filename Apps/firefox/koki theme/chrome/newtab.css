@@ -1,0 +1,8 @@
+@-moz-document url("about:newtab"), url("about:home") {
+body {
+  background: #11111B !important;
+}
+  #newtab-search-text {
+    background: transparent !important;
+  }
+}
