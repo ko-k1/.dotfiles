@@ -1,0 +1,80 @@
+{
+    "workbench.editorAssociations": {
+        "*.pdb": "default",
+        "*.iso": "default",
+        "*.bin": "default",
+        "*.dat": "default"
+    },
+    "workbench.colorTheme": "Aura Dark (Soft Text)",
+    "workbench.iconTheme": "vscode-jetbrains-icon-theme-2023-dark",
+    "workbench.editor.empty.hint": "hidden",
+    "editor.unicodeHighlight.nonBasicASCII": false,
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.cursorBlinking": "phase",
+    "workbench.list.smoothScrolling": true,
+    "terminal.integrated.smoothScrolling": true,
+    "editor.smoothScrolling": true,
+    "editor.renderLineHighlight": "gutter",
+    "editor.fontFamily": "JetBrainsMono Nerd Font",
+    "editor.fontLigatures":  "'zero', 'cv01'",
+//window-preferences
+    "window.titleBarStyle": "native",
+    "apc.electron": {
+        "titleBarStyle": "hiddenInset",
+        "opacity": 1,
+    },
+//editor-preferences
+    "workbench.startupEditor": "none",
+    "workbench.tips.enabled": false,
+    "window.zoomLevel": -0.4,
+    "editor.fontSize": 15,
+    "editor.tabSize": 2,
+    "editor.lineHeight": 1.6,
+    "editor.cursorWidth": 3,
+
+// Background-preferences
+    "background.enabled": true,
+    "background.fullscreen": {
+        "useFront": false,
+        "style": {
+            "background-position": "100% 100%",
+            "background-size": "auto",
+            "opacity": 0.9
+        },
+        "styles": [{}, {}, {}],
+        // Local images can be dragged into the browser to quickly get the file protocol address from the address bar
+        "images": ["file:///C:/Users/koki/Documents/VS Code/vsc-bg/dark-forest-bg.jpg","file:///C:/Users/koki/Documents/VS Code/vsc-bg/dark-forest-bg2.jpg"],
+        "interval": 3600,
+        "random": true
+    },
+
+//animations-preferences
+    "animations.Install-Method": "Custom CSS and JS",
+    "apc.imports": [
+        "file:///c:/Users/koki/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.7/dist/updateHandler.js"
+    ],
+    "animations.Scrolling": "Fade",
+    "animations.Enabled": true,
+    "animations.CursorAnimation": true,
+    "animations.UseCursorColorForCursorAnimation": true,
+    "editor.cursorSmoothCaretAnimation": "on",
+
+//indent-rainbow-preferences
+    "indentRainbow.indicatorStyle": "light",
+    "indentRainbow.lightIndicatorStyleLineWidth": 1,
+    "indentRainbow.colors": [
+        "rgba(150,150,240,0.4)",
+        "rgba(165,165,165,0.4)"
+    ],
+    "indentRainbow.errorColor": "rgba(128,32,32,0.4)",
+//custom css
+    "vscode_custom_css.imports": [
+        "file:///c:/Users/koki/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.7/dist/updateHandler.js"
+    ],
+
+//discord rpc
+    "discord.removeDetails": true,
+//user-json-end
+}
