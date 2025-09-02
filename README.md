@@ -41,30 +41,29 @@ makepkg -si
 
 | name | pacman | sh |
 | :- | :- | :- |
-| `Hyprland` | `pacman` | `pacman -S Hyprland` |
-| `waybar` | `pacman` | `pacman -S waybar` |
-| `kitty` | `pacman` | `pacman -S kitty` |
 | `alacritty` | `pacman` | `pacman -S alacritty` |
-| `thunar` | `pacman` | `pacman -S thunar` |
 | `cava` | `pacman` | `pacman -S cava` |
 | `cmatrix` | `pacman` | `pacman -S cmatrix` |
-| `pipes` | `paru` | `paru -S pipes.sh` |
-| `lolcat` | `pacman` | `pacman -S lolcat` |
-| `swaync` | `pacman` | `pacman -S swaync` |
-| `wlogout` | `paru` | `paru -S wlogout` |
-| `rofi` | `paru` | `paru -S rofi-lbonn-wayland-git` |
-| `starship` | `pacman` | `pacman -S starship` |
 | `fcitx5` | `pacman` | `pacman -S fcitx5-im fcitx5-mozc` |
+| `file roller` | `pacman` | `pacman -S file-roller` |
 | `hyprcursor` | `pacman` | `pacman -S hyprcursor` |
 | `hypridle` | `pacman` | `pacman -S hypridle` |
+| `Hyprland` | `pacman` | `pacman -S Hyprland` |
 | `hyprlock` | `pacman` | `pacman -S hyprlock` |
 | `hyprshot` | `pacman` | `pacman -S hyprshot` |
+| `kitty` | `pacman` | `pacman -S kitty` |
+| `lolcat` | `pacman` | `pacman -S lolcat` |
 | `loupe` | `pacman` | `pacman -S loupe` |
+| `pipes` | `paru` | `paru -S pipes.sh` |
+| `rofi` | `paru` | `paru -S rofi-lbonn-wayland-git` |
+| `starship` | `pacman` | `pacman -S starship` |
 | `superfile` | `pacman` | `pacman -S superfile` |
-| `yazi` | `pacman` | `pacman -S yazi` |
-| `file roller` | `pacman` | `pacman -S file-roller` |
+| `swaync` | `pacman` | `pacman -S swaync` |
 | `swww` | `pacman` | `pacman -S swww` |
-
+| `thunar` | `pacman` | `pacman -S thunar` |
+| `wlogout` | `paru` | `paru -S wlogout` |
+| `waybar` | `pacman` | `pacman -S waybar` |
+| `yazi` | `pacman` | `pacman -S yazi` |
 
 ## Authors
 - [@ko-k1](https://www.github.com/ko-k1)
