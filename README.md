@@ -41,6 +41,7 @@ makepkg -si
 
 | name | pacman | sh |
 | :- | :- | :- |
+| `ags` | `paru` | `paru -S aylurs-gtk-shell` |
 | `alacritty` | `pacman` | `pacman -S alacritty` |
 | `cava` | `pacman` | `pacman -S cava` |
 | `cmatrix` | `pacman` | `pacman -S cmatrix` |

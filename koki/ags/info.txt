@@ -1,0 +1,15 @@
+USAGE:
+    /usr/local/bin/ags [OPTIONS]
+
+OPTIONS:
+    -h, --help              Print this help and exit
+    -v, --version           Print version and exit
+    -q, --quit              Kill AGS
+    -c, --config            Path to the config file. Default: /home/koki/.config/ags/config.js
+    -b, --bus-name          Bus name of the process
+    -i, --inspector         Open up the Gtk debug tool
+    -t, --toggle-window     Show or hide a window
+    -r, --run-js            Execute string as an async function
+    -f, --run-file          Execute file as an async function
+    --init                  Initialize the configuration directory
+    --clear-cache           Remove /home/koki/.cache/ags and exit
