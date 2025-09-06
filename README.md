@@ -55,6 +55,7 @@ makepkg -si
 | `kitty` | `pacman` | `pacman -S kitty` |
 | `lolcat` | `pacman` | `pacman -S lolcat` |
 | `loupe` | `pacman` | `pacman -S loupe` |
+| `nwg dock` | `paru` | `paru -S nwg-dock-hyprland` |
 | `pipes` | `paru` | `paru -S pipes.sh` |
 | `rofi` | `paru` | `paru -S rofi-lbonn-wayland-git` |
 | `starship` | `pacman` | `pacman -S starship` |
