@@ -3,3 +3,4 @@ wm : hyprland-uwsm, seatd
 dm : sddm
 sound : pipewire
 font : HackGen
+theme : dracula gtk full
