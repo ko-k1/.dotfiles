@@ -1,3 +1,16 @@
 move "chrome" folder to root profile dir
 edit userChrome.css commentout apply your supported platforms css
 sidebery.json is sideberry's settings, option-tree >Help import json
+
+about:config settings
+
+Search for the following preferences using the search bar at the top of the about:config page, and ensure the following preferences are true:
+
+    toolkit.legacyUserProfileCustomizations.stylesheets
+    svg.context-properties.content.enabled
+    sidebar.old-sidebar.has-used
+
+ensure the following preferences are false:
+
+    sidebar.revamp
+
