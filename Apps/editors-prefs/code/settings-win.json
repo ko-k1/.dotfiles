@@ -19,6 +19,7 @@
     "editor.renderLineHighlight": "gutter",
     "editor.fontFamily": "JetBrainsMono Nerd Font",
     "editor.fontLigatures":  "'zero', 'cv01'",
+
 //window-preferences
     "window.titleBarStyle": "native",
     "apc.electron": {

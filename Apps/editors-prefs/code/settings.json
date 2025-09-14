@@ -17,7 +17,9 @@
     "terminal.integrated.smoothScrolling": true,
     "editor.smoothScrolling": true,
     "editor.renderLineHighlight": "gutter",
-    "editor.fontFamily": "HackGen35 Console NF",
+    "editor.fontFamily": "JetBrainsMono Nerd Font",
+    "editor.fontLigatures":  "'zero', 'cv01'",
+
 //window-preferences
     "window.titleBarStyle": "custom", //native
     "apc.electron": {
