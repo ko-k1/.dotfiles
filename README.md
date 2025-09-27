@@ -7,7 +7,7 @@
 ## Requirement Packages
 1. upgrade archlinux
 ```sh
-sudo pacman -S archlinux-keyring && pacman -Syyu
+sudo pacman -S archlinux-keyring && sudo pacman -Syyu
 ```
 
 2. install aur helper
